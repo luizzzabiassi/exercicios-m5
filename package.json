@@ -1,8 +1,8 @@
 {
-  "name": "atividades-aula1",
+  "name": "exercicios-js",
   "version": "1.0.0",
   "description": "Pacotes para exercícios.",
-  "main": "api.js",
+  "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
